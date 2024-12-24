@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "title": "The classic Fingerprint Necklace",
+    "price1": "200.00",
+    "price2": "99.90"
+  },
+  {
+    "id": 2,
+    "title": "The Personalized Name \n Necklace",
+    "price1": "200.00",
+    "price2": "99.90"
+  },
+  {
+    "id": 3,
+    "title": "The Engraved Heart Pendant",
+    "price1": "200.00",
+    "price2": "99.90"
+  },
+  {
+    "id": 4,
+    "title": "Custom Birthstone Ring",
+    "price1": "200.00",
+    "price2": "99.90"
+  },
+  {
+    "id": 5,
+    "title": "Sterling Silver Bar Bracelet",
+    "price1": "200.00",
+    "price2": "99.90"
+  },
+  {
+    "id": 6,
+    "title": "Engraved Coordinates Necklace",
+    "price1": "200.00",
+    "price2": "99.90"
+  },
+  {
+    "id": 7,
+    "title": "Minimalist Nameplate Necklace",
+    "price1": "200.00",
+    "price2": "99.90"
+  },
+  {
+    "id": 8,
+    "title": "Personalized Family Tree Pendant",
+    "price1": "200.00",
+    "price2": "99.90"
+  },
+  {
+    "id": 9,
+    "title": "Custom Zodiac Sign Necklace",
+    "price1": "200.00",
+    "price2": "99.90"
+  },
+  {
+    "id": 10,
+    "title": "Engraved Infinity Bracelet",
+    "price1": "200.00",
+    "price2": "99.90"
+  },
+  {
+    "id": 11,
+    "title": "Customized Couple's Necklace",
+    "price1": "200.00",
+    "price2": "99.90"
+  },
+  {
+    "id": 12,
+    "title": "Personalized Monogrammed Ring",
+    "price1": "200.00",
+    "price2": "99.90"
+  }
+]
